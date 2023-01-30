@@ -1,0 +1,9 @@
+enabled: true
+id: "cta"
+
+content:
+  title: "Начни работать с нами, сейчас!"
+  image: "images/services-web-development.png"
+  button:
+    label: "Заказать обратный звонок"
+    url: "#"
